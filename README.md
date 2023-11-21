@@ -1,2 +1,1 @@
-# grover-secret-key
-Grother's algorithm to get a secret key
+# Grother's algorithm to get a secret key [grover-secret-key]
